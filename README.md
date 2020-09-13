@@ -8,4 +8,4 @@
 
 Hello my name is seulgi
 
-<img width="" height="" src="./png/P20200825_230255288_E0C6834F-4751-4C84-900E-3B5C1DF0835A.png">
+<img width="" height="" src="./png/캡스톤 2주차 실습과제.png">
